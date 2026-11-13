@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.rivasdosolcamping.com.br/sitemap.xml
